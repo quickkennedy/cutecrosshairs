@@ -63,8 +63,8 @@
 			"file" "vgui/replay/thumbnails/large circle"
 			"x" "0"
 			"y" "0"
-			"width" "64"
-			"height" "64"
+			"width" "128"
+			"height" "128"
 		}
 		"autoaim"
 		{
